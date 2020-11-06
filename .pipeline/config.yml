@@ -1,6 +1,6 @@
 general:
   buildTool: 'mta'
-  manualConfirmation: false
+  manualConfirmation: true
 stages:
   Acceptance:
     deployTool: 'mtaDeployPlugin'
