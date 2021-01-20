@@ -10,9 +10,4 @@
     "bestzip": "2.1.4",
     "rimraf": "3.0.2"
   },
-  "ui5": {
-    "dependencies": [
-      "@sap/ui5-builder-webide-extension"
-    ]
-  },
 }
