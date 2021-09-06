@@ -48,3 +48,4 @@ build-parameters:
   - builder: custom
     commands:
     - npm install
+
